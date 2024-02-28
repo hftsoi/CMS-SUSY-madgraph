@@ -30,3 +30,4 @@ set param_card mass 2000015 100000.0
 set param_card mass 35 100000.0
 set param_card mass 36 100000.0
 set param_card mass 37 100000.0
+set param_card mass 5 0.0
